@@ -1,0 +1,21 @@
+<html>
+<head><title> cases </title></head>
+<body bgcolor= Black>
+<body>
+<table border="1">
+<tr bgcolor="violet">
+<th colspan="5"><center>(COVID-19) CASES, RECOVIRIES, and DEATHS WORLDWIDE</center></th>
+</tr>
+<tr bgcolor="violet">
+<th> TOTAL CASES</th>
+<th> TOTAL RECOVIRIES</th>
+<th> TOTAL DEATHS </th>
+</tr>
+<tr bgcolor="violet">
+<td> 112,696,527 </td>
+<td> 88,281,447 </td>
+<td> 2,497,594 </td>
+</tr>
+</table>
+</body>
+</html>
